@@ -11,7 +11,7 @@ Version:	%version
 Release:	%mkrel 0.%pre.%rel
 Group:		Video
 License:	GPLv2+
-URL:		http://wirbel.htpc-forum.de/wirbelscan/index2.html
+URL:		https://wirbel.htpc-forum.de/wirbelscan/index2.html
 Source:		http://wirbel.htpc-forum.de/wirbelscan/vdr-%plugin-%version-%pre.tgz
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	vdr-devel >= 1.6.0
