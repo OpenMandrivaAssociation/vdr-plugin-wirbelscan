@@ -8,7 +8,7 @@
 Summary:	VDR plugin: DVB and pvrinput channel scan
 Name:		%name
 Version:	%version
-Release:	%mkrel 0.%pre.%rel
+Release:	1
 Group:		Video
 License:	GPLv2+
 URL:		https://wirbel.htpc-forum.de/wirbelscan/index2.html
